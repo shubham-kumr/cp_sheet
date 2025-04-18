@@ -95,3 +95,11 @@ int main()
 
     return 0;
 }
+
+// ------------------------ End of Code -------------------------
+// time complexity: O(n)
+// space complexity: O(n)
+// problem name: Line Trip
+// problem link: https://codeforces.com/problemset/problem/1901/A
+
+// ------------------------shubham-kumr--------------------------
